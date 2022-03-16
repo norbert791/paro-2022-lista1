@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdio>
 
 int main(int N, char** args) {
     if (N < 2) {
